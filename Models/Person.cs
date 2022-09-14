@@ -5,6 +5,6 @@ namespace NTN123.Models
         //Khai báo 3 thuoc tính của doi tuong
         public String TenNguoi { get; set; }
         public string Sothich { get; set; }
-        public DateTime Namsinh { get; set; }
+        public int Namsinh { get; set; }
     }
 }

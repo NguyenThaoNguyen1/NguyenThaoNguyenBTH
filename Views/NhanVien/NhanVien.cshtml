@@ -1,0 +1,21 @@
+<table class="table border">
+    <tr>
+        <th>
+            <label>Mã Nhân viên</label>
+        </th>
+        <th>
+            <label>Tên nhân viên</label>
+        </th>
+         <th>
+            <label>Quê quán</label>
+        </th>
+    </tr>
+    @foreach (var item in ViewData["NhanVien"] as List<NhanVien>)
+    {
+        <tr>
+            <td>@item.MaNV</td>>
+            <td>@item.TenNV</td>
+            <td>@item.Quequan</td>
+        </tr>
+    }
+</table>
