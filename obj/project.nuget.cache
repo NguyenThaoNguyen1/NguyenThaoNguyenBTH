@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNYm1IjhN9oWXoSPR4I1G2dpvDMR3vQ2woLVRsYab8PF2UOmSCWSka54gAViJrknecl45Lrg7of3j5mBFgGPUA==",
+  "dgSpecHash": "DbA1PZlRvjnMMh68ck/kGiVYApRmhVS8ZBNic36At4tGSJHHG+Za7eAQE+EZZ4fet87gz9p83VA72duMYrm7cw==",
   "success": true,
-  "projectFilePath": "C:\\NTN\\NTN123\\NTN123.csproj",
+  "projectFilePath": "C:\\Netcore\\NTN123\\NTN123.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
