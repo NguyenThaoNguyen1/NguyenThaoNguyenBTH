@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Netcore\\NTN123\\NTN123.csproj",
+      "projectUniqueName": "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj",
       "projectName": "NTN123",
-      "projectPath": "C:\\Netcore\\NTN123\\NTN123.csproj",
+      "projectPath": "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Netcore\\NTN123\\obj\\",
+      "outputPath": "C:\\BTH PTPMQL\\NTN123\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
