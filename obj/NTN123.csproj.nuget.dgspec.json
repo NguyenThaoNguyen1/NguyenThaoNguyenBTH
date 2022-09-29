@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj": {}
+    "C:\\BTH PTPMQL_NguyênThaoNguyen\\NTN123\\NTN123.csproj": {}
   },
   "projects": {
-    "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj": {
+    "C:\\BTH PTPMQL_NguyênThaoNguyen\\NTN123\\NTN123.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj",
+        "projectUniqueName": "C:\\BTH PTPMQL_NguyênThaoNguyen\\NTN123\\NTN123.csproj",
         "projectName": "NTN123",
-        "projectPath": "C:\\BTH PTPMQL\\NTN123\\NTN123.csproj",
+        "projectPath": "C:\\BTH PTPMQL_NguyênThaoNguyen\\NTN123\\NTN123.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\BTH PTPMQL\\NTN123\\obj\\",
+        "outputPath": "C:\\BTH PTPMQL_NguyênThaoNguyen\\NTN123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

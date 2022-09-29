@@ -54,7 +54,7 @@ namespace NTN123.Models.Process
                 {
                     x1 = (double)-c / b;
                     //Sử dụng phương thứ Math.Round() để làm tròn kết quả lên 2 số thập phân
-                    thongBao= "Phuong trinh co nghiem duy nhat x = {0}" + (Math.Round(x1, 2));
+                    thongBao= "Phuong trinh co nghiem duy nhat x =" + (Math.Round(x1, 2));
                 }
             }
             //nếu a != 0 thì ta bắt đầu giải phương trình bậc hai
@@ -65,20 +65,20 @@ namespace NTN123.Models.Process
                 //kiểm tra nếu delta < 0 thì phương trình vô nghiệm
                 if (delta < 0)
                 {
-                    thongBao="Phuong trinh vo nghiem." ;
+                    thongBao="phương trình vô nghiệm" ;
                 }
                 //nếu delta = 0 thì phương trình có hai nghiệm kép
                 else if (delta == 0)
                 {
                     x1 = x2 = -b / (2 * a);
-                    thongBao="\n Phuong trinh co nghiem kep x1 = x2 = {0}" + x1;
+                    thongBao="Phương trình có nghiệm kép là: x1=x2=" + x1;
                 }
                 //nếu delta > 0 thì phuong trình có hai nghiệm phân biệt
                 else
                 {
                     x1 = (-b + Math.Sqrt(delta)) / (2 * a);
                     x2 = (-b - Math.Sqrt(delta)) / (2 * a);
-                   thongBao=" Phuong trinh hai nghiem phan biet:\n X1 = {0}\n X2 = {1}" + x1  +x2;
+                   thongBao="Phương trình có nghiệm là: x1=" + x1+" và " + "x2= "+x2;
                 }
             }
              
